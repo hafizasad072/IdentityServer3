@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Identity.Server3", "Identity.Server3\Identity.Server3.csproj", "{9BF02F9E-F9C1-4B9F-B7B9-5066D236C14D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentityServer.EF", "IdentityServer.EF\IdentityServer.EF.csproj", "{647B0DB4-09B2-4EA5-B5D7-9332A9ACC96B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BF02F9E-F9C1-4B9F-B7B9-5066D236C14D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BF02F9E-F9C1-4B9F-B7B9-5066D236C14D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BF02F9E-F9C1-4B9F-B7B9-5066D236C14D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BF02F9E-F9C1-4B9F-B7B9-5066D236C14D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{647B0DB4-09B2-4EA5-B5D7-9332A9ACC96B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{647B0DB4-09B2-4EA5-B5D7-9332A9ACC96B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{647B0DB4-09B2-4EA5-B5D7-9332A9ACC96B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{647B0DB4-09B2-4EA5-B5D7-9332A9ACC96B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
